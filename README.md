@@ -16,6 +16,7 @@ The project also includes a **GitHub Actions CI pipeline** to test the models on
 # 1. Clone Repository
 
 git clone (https://github.com/KishanBouri/mlops_assignment1)
+
 cd mlops_assignment1
 
 # 2. Create Environment
@@ -60,4 +61,5 @@ Kernel Ridge Regressor	28.838639363498928
 -dtree → DecisionTreeRegressor implementation
 
 -kernelridge → KernelRidge implementation + GitHub Actions CI
+
 
