@@ -49,7 +49,9 @@ It will:
 # 6. Performance Comparison
 
 Model	Test MSE
+
 Decision Tree Regressor	10.416078431372549
+
 Kernel Ridge Regressor	28.838639363498928
 
 
@@ -61,5 +63,6 @@ Kernel Ridge Regressor	28.838639363498928
 -dtree → DecisionTreeRegressor implementation
 
 -kernelridge → KernelRidge implementation + GitHub Actions CI
+
 
 
