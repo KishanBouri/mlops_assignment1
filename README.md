@@ -65,4 +65,16 @@ Kernel Ridge Regressor	28.838639363498928
 -kernelridge → KernelRidge implementation + GitHub Actions CI
 
 
+# 9. Conclusion
+
+- Implemented ML workflow with reusable `misc.py` functions.
+    
+- Successfully trained and evaluated Decision Tree and Kernel Ridge models.
+   
+- Integrated GitHub Actions CI/CD pipeline.
+  
+- Achieved reproducible results with a proper branching strategy.  
+
+
+
 
